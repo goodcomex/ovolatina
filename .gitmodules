@@ -42,3 +42,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 11.0
+
+[submodule "aeroo/aeroolib"]
+	path = aeroo/aeroolib
+	url = git@github.com:aeroo/aeroolib.git
+	branch = master
